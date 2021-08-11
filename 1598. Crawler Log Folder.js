@@ -1,4 +1,4 @@
-/**
+ /**
  * @param {string[]} logs
  * @return {number}
  */
